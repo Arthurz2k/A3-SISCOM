@@ -2,7 +2,7 @@
 # SISCOM – Sistema de Compras e Pedidos
 
 ## 📄 Descrição
-O **SISCOM** é um sistema de compras e pedidos desenvolvido em **Java**, utilizando **Swing** para a interface gráfica e **MySQL** como banco de dados. 
+O **SISCOM** é um sistema de compras e pedidos desenvolvido em **Java** e **MySQL** como banco de dados. 
 
 O sistema permite o cadastro e login de usuários, tanto **clientes** quanto **fornecedores**. Após o login, os usuários podem:
 
